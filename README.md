@@ -2,9 +2,8 @@
 
 Here are some things about me:
 
-- :man_student: Production engineer and graduate student in Logistics and Supply Chain Management;
-- :desktop_computer: Intermediate knowledge in Python, VBA and Power BI;
+- :man_student: Production engineer and graduate student in Logistics and Supply Chain Management, studying System Architecture.
 - :chart: I’m currently working as System Analyst;
-- 🌱 Studing C#, Java, JS, TS and Angular.
+- Developing in .net, NodeJS, Angular.
 
 
